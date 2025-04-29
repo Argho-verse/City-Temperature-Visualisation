@@ -1,5 +1,3 @@
-# City-temp-chart
-Python Module Work - Simply showing a city wise temperature plot using matplotlib
 # City Temperature Visualization
 
 A simple Python project to visualize the temperatures of various cities using colorful bar charts with `matplotlib`.
